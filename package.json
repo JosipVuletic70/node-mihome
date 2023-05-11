@@ -1,5 +1,5 @@
 {
-  "name": "node-mihome",
+  "name": "mihome-forked-and-changed-by-vule",
   "version": "0.0.32",
   "description": "Control Mi Home devices, such as Mi Robot Vacuums, Mi Air Purifiers, Mi Smart Home Gateway (Aqara) and more",
   "repository": {
@@ -45,7 +45,7 @@
   },
   "homepage": "https://github.com/maxinminax/node-mihome#readme",
   "bin": {
-    "miio": "./cli/index.js"
+    "miio": "cli/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
